@@ -1,4 +1,4 @@
-# SmartECG - Electrocardiography (ECG or EKG)
+# ECG - Electrocardiography (ECG or EKG)
 Electrocardiography, commonly known as ECG or EKG, is a diagnostic tool that records the heart's electrical activity over time. The resulting graph, called an electrocardiogram, displays this activity as a series of waves and intervals, offering insights into the heart's rate, rhythm, and other functional aspects.
 
 1. The ECG Graph:
